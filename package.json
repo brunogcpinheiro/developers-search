@@ -1,13 +1,15 @@
 {
-  "name": "react-redux-saga-styled-reactotron-starter",
-  "author": "Bruno Carpinelli", 
+  "name": "Soccer-Search",
+  "author": "Bruno Carpinelli",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
+    "react-dimensions": "^1.3.1",
     "react-dom": "^16.4.1",
+    "react-map-gl": "^4.0.7",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",

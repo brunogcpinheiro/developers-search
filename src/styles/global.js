@@ -9,7 +9,6 @@ export const GlobalStyle = createGlobalStyle`
   }
   
   body {
-      background: #dff9fb;
-      font-family: 'Pacifico', cursive, sans-serif;
+      font-family: 'Muli', cursive, sans-serif;
   }
 `
