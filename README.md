@@ -1,6 +1,6 @@
-# Developers Seach
+# Soccer Matches Seach
 
-Add and search developers around you. Just click in the map and add them!
+Add and search soccer matches around you. Just click in the map and add them!
 
 ### To test the project, just clone this repo and run:
 
