@@ -1,4 +1,4 @@
-# Soccer Matches Seach
+# Soccer Matches Seach ⚽️
 
 Add and search soccer matches around you. Just click in the map and add them!
 
